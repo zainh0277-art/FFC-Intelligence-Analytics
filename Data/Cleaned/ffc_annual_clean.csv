@@ -1,0 +1,5 @@
+fiscal_year,sales_pkr_thousands,profit_after_tax_pkr_thousands,eps_pkr,gross_profit_margin_pct,net_profit_margin_pct,basis,source_url,sales_pkr_billions,profit_pkr_billions,calculated_net_margin_pct
+2022,109363817,20049510,15.76,36.62,18.33,unconsolidated,https://dps.psx.com.pk/company/FFC,109.3638,20.0495,18.33
+2023,159471951,29673348,23.32,40.29,18.61,unconsolidated,https://dps.psx.com.pk/company/FFC,159.472,29.6733,18.61
+2024,373536920,64731439,45.49,34.05,17.33,unconsolidated,https://dps.psx.com.pk/company/FFC,373.5369,64.7314,17.33
+2025,432410443,73564267,51.69,30.21,17.01,unconsolidated,https://dps.psx.com.pk/company/FFC,432.4104,73.5643,17.01

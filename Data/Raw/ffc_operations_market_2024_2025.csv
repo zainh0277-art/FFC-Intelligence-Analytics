@@ -1,0 +1,18 @@
+year,product,entity,metric,value,unit,source,source_url
+2025,Urea,FFC,production,2903,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,Urea,FFC,offtake,2886,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,Urea,FFC,closing_inventory,55,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,Urea,Industry,production,6669,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,Urea,Industry,offtake,6727,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,DAP,FFC,production_or_import,869,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,DAP,FFC,offtake,834,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,DAP,FFC,closing_inventory,66,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,DAP,Industry,production_or_import,1443,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2025,DAP,Industry,offtake,1337,KT,FFC 2026 corporate briefing,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2024,Urea,FFC,production,2842,KT,FFC 2024 results,https://mettisglobal.news/ffc-announces-annual-financial-results-for-the-year-2024
+2024,Urea,FFC,offtake,2942,KT,FFC 2024 results,https://mettisglobal.news/ffc-announces-annual-financial-results-for-the-year-2024
+2024,DAP,FFC,offtake,653,KT,FFC 2024 results,https://mettisglobal.news/ffc-announces-annual-financial-results-for-the-year-2024
+2024,Urea,Industry,production,6853,KT,FFC 2026 corporate briefing comparative,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2024,Urea,Industry,offtake,6577,KT,FFC 2026 corporate briefing comparative,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2024,DAP,Industry,production_or_import,1710,KT,FFC 2026 corporate briefing comparative,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
+2024,DAP,Industry,offtake,1637,KT,FFC 2026 corporate briefing comparative,https://www.psx.com.pk/psx/files-attachment?file=272610.pdf
